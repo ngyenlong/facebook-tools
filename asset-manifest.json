@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ngyenlong/facebook-tools/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ngyenlong/facebook-tools/static/js/main.dc63659f.chunk.js",
-    "main.js.map": "/ngyenlong/facebook-tools/static/js/main.dc63659f.chunk.js.map",
-    "runtime-main.js": "/ngyenlong/facebook-tools/static/js/runtime-main.ec8e532f.js",
-    "runtime-main.js.map": "/ngyenlong/facebook-tools/static/js/runtime-main.ec8e532f.js.map",
-    "static/js/2.94f8ea0b.chunk.js": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js",
-    "static/js/2.94f8ea0b.chunk.js.map": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js.map",
-    "index.html": "/ngyenlong/facebook-tools/index.html",
-    "precache-manifest.59f1c9d06af8f3ac9c365d34e47a5fc6.js": "/ngyenlong/facebook-tools/precache-manifest.59f1c9d06af8f3ac9c365d34e47a5fc6.js",
-    "service-worker.js": "/ngyenlong/facebook-tools/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ngyenlong/facebook-tools/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.94f8ea0b.chunk.js.LICENSE.txt": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js.LICENSE.txt"
+    "main.css": "/facebook-tools/static/css/main.5f361e03.chunk.css",
+    "main.js": "/facebook-tools/static/js/main.5829c11f.chunk.js",
+    "main.js.map": "/facebook-tools/static/js/main.5829c11f.chunk.js.map",
+    "runtime-main.js": "/facebook-tools/static/js/runtime-main.9d907306.js",
+    "runtime-main.js.map": "/facebook-tools/static/js/runtime-main.9d907306.js.map",
+    "static/js/2.94f8ea0b.chunk.js": "/facebook-tools/static/js/2.94f8ea0b.chunk.js",
+    "static/js/2.94f8ea0b.chunk.js.map": "/facebook-tools/static/js/2.94f8ea0b.chunk.js.map",
+    "index.html": "/facebook-tools/index.html",
+    "precache-manifest.3ae90a66ea46cf771d12ebc8d93ba0f7.js": "/facebook-tools/precache-manifest.3ae90a66ea46cf771d12ebc8d93ba0f7.js",
+    "service-worker.js": "/facebook-tools/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/facebook-tools/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.94f8ea0b.chunk.js.LICENSE.txt": "/facebook-tools/static/js/2.94f8ea0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec8e532f.js",
+    "static/js/runtime-main.9d907306.js",
     "static/js/2.94f8ea0b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dc63659f.chunk.js"
+    "static/js/main.5829c11f.chunk.js"
   ]
 }
