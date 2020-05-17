@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ngyenlong/facebook-tools/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ngyenlong/facebook-tools/static/js/main.bbd4c70b.chunk.js",
-    "main.js.map": "/ngyenlong/facebook-tools/static/js/main.bbd4c70b.chunk.js.map",
+    "main.js": "/ngyenlong/facebook-tools/static/js/main.dc63659f.chunk.js",
+    "main.js.map": "/ngyenlong/facebook-tools/static/js/main.dc63659f.chunk.js.map",
     "runtime-main.js": "/ngyenlong/facebook-tools/static/js/runtime-main.ec8e532f.js",
     "runtime-main.js.map": "/ngyenlong/facebook-tools/static/js/runtime-main.ec8e532f.js.map",
-    "static/js/2.43ae9f61.chunk.js": "/ngyenlong/facebook-tools/static/js/2.43ae9f61.chunk.js",
-    "static/js/2.43ae9f61.chunk.js.map": "/ngyenlong/facebook-tools/static/js/2.43ae9f61.chunk.js.map",
+    "static/js/2.94f8ea0b.chunk.js": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js",
+    "static/js/2.94f8ea0b.chunk.js.map": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js.map",
     "index.html": "/ngyenlong/facebook-tools/index.html",
-    "precache-manifest.c0ba18ef69afc7e1ea94850d6fe65e09.js": "/ngyenlong/facebook-tools/precache-manifest.c0ba18ef69afc7e1ea94850d6fe65e09.js",
+    "precache-manifest.59f1c9d06af8f3ac9c365d34e47a5fc6.js": "/ngyenlong/facebook-tools/precache-manifest.59f1c9d06af8f3ac9c365d34e47a5fc6.js",
     "service-worker.js": "/ngyenlong/facebook-tools/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/ngyenlong/facebook-tools/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.43ae9f61.chunk.js.LICENSE.txt": "/ngyenlong/facebook-tools/static/js/2.43ae9f61.chunk.js.LICENSE.txt"
+    "static/js/2.94f8ea0b.chunk.js.LICENSE.txt": "/ngyenlong/facebook-tools/static/js/2.94f8ea0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec8e532f.js",
-    "static/js/2.43ae9f61.chunk.js",
+    "static/js/2.94f8ea0b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bbd4c70b.chunk.js"
+    "static/js/main.dc63659f.chunk.js"
   ]
 }
